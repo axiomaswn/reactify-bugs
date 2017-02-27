@@ -13,5 +13,8 @@
   },
   "scripts": {
     "start": "live-server"
+  },
+  "devDependencies": {
+    "eslint": "^3.16.1"
   }
 }
